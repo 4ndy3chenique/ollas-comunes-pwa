@@ -1,4 +1,3 @@
-Markdown
 # 🍲 Ollas Comunes PWA
 
 > **Plataforma web Offline-First para la trazabilidad logística y gestión nutricional en ollas comunes de Lima Metropolitana**.
